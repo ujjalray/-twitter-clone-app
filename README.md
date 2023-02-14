@@ -24,5 +24,5 @@ To run the project, follow these steps:
 
 #Author
 
-This project is developed by me.
+This project is developed by ujjalRay.
 
