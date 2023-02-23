@@ -1,4 +1,4 @@
-                                                  # Welcome to the Student Record System Project #
+                                            # Welcome to the Student Record System Project #
 																									
 #This project is a simple Student Record System implemented in C++ language. This project has the following features:
 
